@@ -1,3 +1,9 @@
+# Using Create React App as a template for a custom dashboard analytics app
+
+using [recharts library](https://www.npmjs.com/package/recharts)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
